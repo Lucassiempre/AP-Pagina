@@ -1,0 +1,280 @@
+@media (min-width:1000px) {
+body{
+    font-family:"Inconsolata", monospace ;
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    font-size: 55px;
+    color: blueviolet;
+}
+header{
+    background-color: rgb(247, 247, 247);
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+button{
+    background-color: blueviolet;
+    color: black;
+    padding: 10px;
+    font-size: 15px;
+    border: 3px blueviolet solid;
+    border-radius: 60px;
+}
+h2{
+    font-size: 35px;
+    color: brown;
+}
+
+article{
+    color: rgb(48, 123, 236);
+}
+ main{
+    color:black;
+    padding: 20px 20px 20px 20px;
+    background-color: aqua;
+    border: 30px orangered solid;
+ }
+ .practicando{
+    margin-top: 20px;
+    color: rgb(15, 19, 230);
+ }
+
+ ul{
+    color: rgb(0, 0, 0);
+ }
+
+ ol{
+    color: rgb(0, 0, 0);
+ }
+
+.Esto{
+    margin-top: 20px;
+}
+.Card{
+    width:400px ;
+    height:450px ;
+    text-align: center;
+    width: 100%;
+    
+}
+#FondoEtiquetas{
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    background-color: blueviolet;
+    
+}
+.Peper{
+    margin-top: 120px;
+    padding: 20px 20px 20px 20px;  
+    text-align: center;
+    background-color: rgb(247, 247, 247);
+    border: 30px orangered solid;
+    display: block;
+
+}
+#BtnCard{
+    background-color: blueviolet;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#ContenedorP{
+    display: flex;
+    justify-content: space-around;
+}
+#BtnFin{
+    text-align: center;
+    margin-top: 40px;
+}
+}
+@media(max-width:999px){
+    body{
+        font-family:"Inconsolata", monospace ;
+        background-color: rgb(160, 150, 95);
+    }
+    h1{
+        font-size: 55px;
+        color: blueviolet;
+    }
+    header{
+        background-color: rgb(247, 247, 247);
+        margin-top: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        margin-left: auto;
+    }
+    button{
+        background-color: blueviolet;
+        color: black;
+        padding: 10px;
+        font-size: 15px;
+        border: 3px blueviolet solid;
+        border-radius: 60px;
+    }
+    h2{
+        font-size: 35px;
+        color: brown;
+    }
+    
+    article{
+        color: rgb(48, 123, 236);
+    }
+     main{
+        color:black;
+        padding: 20px 20px 20px 20px;
+        background-color: aqua;
+        border: 30px orangered solid;
+     }
+     .practicando{
+        margin-top: 20px;
+        color: rgb(15, 19, 230);
+     }
+    
+     ul{
+        color: rgb(0, 0, 0);
+     }
+    
+     ol{
+        color: rgb(0, 0, 0);
+     }
+    
+    .Esto{
+        margin-top: 20px;
+    }
+    .Card{
+        width:400px ;
+        height:450px ;
+        text-align: center;
+        width: 100%;
+
+        
+    }
+    #FondoEtiquetas{
+        font-size: 35px;
+        color: rgb(0, 0, 0);
+        background-color: blueviolet;
+        
+    }
+    .Peper{
+        margin-top: 120px;
+        padding: 20px 20px 20px 20px;  
+        text-align: center;
+        background-color: rgb(247, 247, 247);
+        border: 30px orangered solid;
+        display: block;
+    
+    }
+    #BtnCard{
+        background-color: blueviolet;
+        text-align: center;
+        margin-top: 40px;
+        width: 100%;
+    }
+    
+    #ContenedorP{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+
+    }
+    #BtnFin{
+        text-align: center;
+        margin-top: 40px;
+    }
+}
+@media(max-width:599px){
+    body{
+        font-family:"Inconsolata", monospace ;
+        background-color: cadetblue;
+    }
+    h1{
+        font-size: 55px;
+        color: blueviolet;
+    }
+    header{
+        background-color: rgb(247, 247, 247);
+        margin-top: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        margin-left: auto;
+    }
+    button{
+        background-color: blueviolet;
+        color: black;
+        padding: 10px;
+        font-size: 15px;
+        border: 3px blueviolet solid;
+        border-radius: 60px;
+    }
+    h2{
+        font-size: 35px;
+        color: brown;
+    }
+    
+    article{
+        color: rgb(48, 123, 236);
+    }
+     main{
+        color:black;
+        padding: 20px 20px 20px 20px;
+        background-color: aqua;
+        border: 30px orangered solid;
+     }
+     .practicando{
+        margin-top: 20px;
+        color: rgb(15, 19, 230);
+     }
+    
+     ul{
+        color: rgb(0, 0, 0);
+     }
+    
+     ol{
+        color: rgb(0, 0, 0);
+     }
+    
+    .Esto{
+        margin-top: 20px;
+    }
+    .Card{
+        width:400px ;
+        height:450px ;
+        text-align: center;
+        
+    }
+    #FondoEtiquetas{
+        font-size: 35px;
+        color: rgb(0, 0, 0);
+        background-color: blueviolet;
+        
+    }
+    .Peper{
+        margin-top: 120px;
+        padding: 20px 20px 20px 20px;  
+        text-align: center;
+        background-color: rgb(247, 247, 247);
+        border: 30px orangered solid;
+        display: block;
+    
+    }
+    #BtnCard{
+        background-color: blueviolet;
+        text-align: center;
+        margin-top: 40px;
+        width: 100%;
+    }
+    
+    #ContenedorP{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+    }
+    #BtnFin{
+        text-align: center;
+        margin-top: 40px;
+    }
+}
